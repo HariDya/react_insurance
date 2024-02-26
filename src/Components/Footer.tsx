@@ -1,5 +1,5 @@
 // import React from 'react'
-import logo from "../assets/logo6.webp"
+import logo from "/assets/logo6.webp"
 import { FaFacebookSquare } from "react-icons/fa";
 import { FaSquareXTwitter } from "react-icons/fa6";
 import { FaYoutube } from "react-icons/fa";

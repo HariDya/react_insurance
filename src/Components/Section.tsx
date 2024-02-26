@@ -1,7 +1,7 @@
 // import React from 'react'
-import snappy from "../assets/icon-snappy-process.svg";
-import affordable from "../assets/icon-affordable-prices.svg";
-import man from "../assets/icon-people-first.svg";
+import snappy from "/assets/icon-snappy-process.svg";
+import affordable from "/assets/icon-affordable-prices.svg";
+import man from "/assets/icon-people-first.svg";
 import { motion } from "framer-motion"
 
 

@@ -1,6 +1,6 @@
-import card from "../assets/service-1.jpg"
-import health from "../assets/service-3.jpg"
-import business from "../assets/service-6.jpg"
+import card from "/assets/service-1.jpg"
+import health from "/assets/service-3.jpg"
+import business from "/assets/service-6.jpg"
 
 import { FaArrowRightLong } from "react-icons/fa6";
 

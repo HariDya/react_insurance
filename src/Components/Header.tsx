@@ -1,4 +1,4 @@
-import logo from "../assets/logo6.webp";
+import logo from "/assets/logo6.webp";
 import { useState } from "react";
 
 

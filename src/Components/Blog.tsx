@@ -1,7 +1,7 @@
 
 // import React from 'react'
-import humanpic from "../assets/intro-desktop.jpg"
-import mobilehuman from "../assets/image-intro-mobile.jpg"
+import humanpic from "/assets/intro-desktop.jpg"
+import mobilehuman from "/assets/image-intro-mobile.jpg"
 import { motion } from "framer-motion"
 
 
