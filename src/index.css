@@ -553,6 +553,16 @@ hr {
 
 @media screen and (max-width: 575.98px) {  
 
+
+
+  .logo img {
+    width: 100px;
+  }
+  
+  
+  
+  
+
   .btn1 {
     display: none;
 }
@@ -577,8 +587,19 @@ body {
  
 }
 .human-content h1 {
-  font-size: 36px;
+  font-size: 35px;
   
+}
+.human-content .btn1 a {
+     
+  display: inline-block;
+  
+}  
+  
+.human-content h1::before {
+  
+  top: 12px;
+
 }
 
 
@@ -637,6 +658,13 @@ img.mobilehuman {
 section.section {
   margin-top: 40px;
 }
+.section-heading h1 {
+  font-size: 35px;
+  color: #2b272f;
+  position: relative;
+  padding: 45px 0px;
+  display: inline-block;
+}
 .inner-section {
   padding: 40px;
   text-align: center;
@@ -669,7 +697,6 @@ section.section {
 .inner-backgroundimg {
   
   padding: 40px;
- 
   background-position: 70% 13%;
   
 }
@@ -755,6 +782,12 @@ section.section {
  
   padding: 40px;
 }
+.inner-footer {
+  padding: 40px;
+  align-items: center;
+  justify-content: center;
+}
+
 
 .details {
   
