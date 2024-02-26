@@ -184,10 +184,10 @@ transition:0.9s;
   position: absolute;
   top: -39px;
   right: -285px;
-  background-image: url("/assets/bg-pattern-intro-right-desktop.svg");
+  background-image: url("/react_insurance/assets/bg-pattern-intro-right-desktop.svg");
   background-repeat: no-repeat;
   width: 436px;
-  height: 593px;    
+  height: 593px;      
   
 } 
 .humandesktop  {
