@@ -573,6 +573,7 @@ body {
 .nav__menu {
   
   width: 67%;
+  min-height: 60vh;
   
 }
 .nav__item {
