@@ -562,10 +562,6 @@ hr {
   
   
   
-
-  .btn1 {
-    display: none;
-}
 body {
  
   font-size: 14px;
@@ -576,8 +572,11 @@ body {
 }
 .nav__menu {
   
-  width: 65%;
+  width: 67%;
   
+}
+.nav__item {
+  line-height: 0.8;
 }
 
 .human-content {
@@ -590,11 +589,11 @@ body {
   font-size: 35px;
   
 }
-.human-content .btn1 a {
-     
-  display: inline-block;
-  
-}  
+
+.human-content .btn1 {
+  padding: 40px 0;
+  display: block;
+}
   
 .human-content h1::before {
   
@@ -1595,6 +1594,34 @@ section.section {
   }
   .slick-next {
     right: 30px;
+  }
+
+
+
+
+
+}
+
+
+@media (min-width: 1499.98px) { 
+
+
+  ul.nav__menu {
+    display: none;
+  }
+  .humanpic::after {
+    content: "";
+    position: absolute;
+    top: -39px;
+    right: -230px;
+   
+  }
+  .slick-prev {
+    left: 70px;
+    z-index: 1;
+  }
+  .slick-next {
+    right: 70px;
   }
 
 
