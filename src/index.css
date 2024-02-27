@@ -576,12 +576,12 @@ body {
   
 }
 .nav__item {
-  line-height: 0.8;
+  line-height: 0;
 }
 
 .human-content {
   flex-basis: 100%;
-  padding-top: 110px;
+  padding-top: 80px;
 
  
 }
@@ -621,8 +621,9 @@ img.mobilehuman {
   display: none;
 }
 .banner{
-  height: 940px;
+  height: 1040px;
 }
+
 .inner-banner {
   padding: 40px;
   text-align: center;
@@ -1603,7 +1604,7 @@ section.section {
 }
 
 
-@media (min-width: 1499.98px) { 
+@media (min-width: 1500px) { 
 
 
   ul.nav__menu {
