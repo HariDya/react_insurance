@@ -33,7 +33,7 @@ const Header = () => {
           
           <div className="nav-bar">
             <ul className="menu">
-             <li><a href="#"> How we work</a></li>
+             <li><a href="#"> How we works</a></li>
               <li><a href="#"> Blog</a></li>
               <li><a href="#"> Account</a></li>
               <li><a href="#"> About</a></li>
