@@ -1627,7 +1627,12 @@ section.section {
     right: 70px;
   }
 
-
+  .humanpic::after {
+    content: "";
+    position: absolute;
+    top: -39px;
+    right: -285px;
+  }
 
 
 
